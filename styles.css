@@ -40,4 +40,11 @@ button {
 
 button:hover {
     background-color: hotpink;
+    transform: scale(1);
+    box-shadow: 0 0 5px rgba(244, 57, 57, 0.653);
+}
+
+.result {
+    color: rgb(129, 246, 13);
+    font-size: 20px;
 }
